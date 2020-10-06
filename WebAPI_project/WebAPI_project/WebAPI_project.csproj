@@ -159,6 +159,8 @@
     <Compile Include="Controllers\GreetingController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\HostingCostController.cs" />
+    <Compile Include="Controllers\J1Controller.cs" />
+    <Compile Include="Controllers\J2Controller.cs" />
     <Compile Include="Controllers\SquareController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
